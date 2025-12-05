@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Dec 05 19:49:56 WET 2025","Fri Dec 05 19:49:56 WET 2025","379","","DataInputTest.tests.DataInputTest","","DataInputTest.tests.DataInputTest","negativeNumberInput","negativeNumberInput()",""
+"passed","Fri Dec 05 19:49:57 WET 2025","Fri Dec 05 19:49:57 WET 2025","360","","DataInputTest.tests.DataInputTest","","DataInputTest.tests.DataInputTest","decimalNumberInput","decimalNumberInput()",""
+"passed","Fri Dec 05 19:49:57 WET 2025","Fri Dec 05 19:49:57 WET 2025","377","","DataInputTest.tests.DataInputTest","","DataInputTest.tests.DataInputTest","largeNumberInput","largeNumberInput()",""
+"passed","Fri Dec 05 19:49:56 WET 2025","Fri Dec 05 19:49:57 WET 2025","352","","DataInputTest.tests.DataInputTest","","DataInputTest.tests.DataInputTest","positiveNumberInput","positiveNumberInput()",""
+"passed","Fri Dec 05 19:49:51 WET 2025","Fri Dec 05 19:49:56 WET 2025","4517","","DataInputTest.tests.DataInputTest","","DataInputTest.tests.DataInputTest","invalidTextInput","invalidTextInput()",""
