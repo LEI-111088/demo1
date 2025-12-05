@@ -1,4 +1,4 @@
 package testSuiteBasicFeature;
 
-public class ShortcutsTest {
+public class ShortcutTest {
 }
